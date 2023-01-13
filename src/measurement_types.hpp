@@ -216,7 +216,7 @@ namespace measurements {
 
             else {
 
-                this->value_ = value_;
+                this->value_ = value;
                 this->units_ = length_units;
 
             }
@@ -297,7 +297,7 @@ namespace measurements {
 
             else {
 
-                this->value_ = value_;
+                this->value_ = value;
                 this->units_ = length_units;
 
             }
@@ -468,7 +468,7 @@ namespace measurements {
 
             else {
 
-                this->value_ = value_;
+                this->value_ = value;
                 this->units_ = force_units;
 
             }
@@ -552,7 +552,7 @@ namespace measurements {
 
             else {
 
-                this->value_ = value_;
+                this->value_ = value;
                 this->units_ = angle_units;
 
             }
